@@ -1,0 +1,13 @@
+.container{
+    margin: 57px;
+    justify-items: center;
+}
+
+.center {
+    text-align: center;
+    margin-top: 20%;
+  }
+
+label{
+    font-size: xx-large;
+}
